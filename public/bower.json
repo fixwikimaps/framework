@@ -1,0 +1,22 @@
+{
+  "name": "public",
+  "version": "0.0.0",
+  "homepage": "https://github.com/RashaunaMead/Paper2Json",
+  "authors": [
+    "Rashauna Mead <Rashauna.mead@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "leaflet": "~0.7.3",
+    "d3": "~3.5.6"
+  }
+}
