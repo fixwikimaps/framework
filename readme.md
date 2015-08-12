@@ -4,16 +4,16 @@
 - Install Node & NPM [tutorial](http://blog.teamtreehouse.com/install-node-js-npm-windows)
 - Install [bower](http://bower.io/) $npm install -g bower  
 - Install [grunt](http://gruntjs.com/getting-started) $npm install -g grunt-cli
-- Install [nodemon](https://www.npmjs.com/package/nodemon) $npm install nodemon
+- Install [nodemon](https://www.npmjs.com/package/nodemon) $npm install -g nodemon
 - Install [less](http://lesscss.org/) $npm install -g less.
 
 ####Init framework
 
 1. cd into framework folder
-2. run $npm init
+2. run $npm install
 3. cd into framework/public folder run $bower install
 4. cd back out to framework run $nodemon
-5. in another window cd into framework run $grunt-watch
+5. in another window cd into framework run $grunt -watch
 6. develop
 
 
