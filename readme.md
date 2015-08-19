@@ -13,8 +13,8 @@
 2. run $npm install
 3. cd into framework/public folder run $bower install
 4. cd back out to framework run $nodemon
-5. in another window cd into framework run $grunt -watch
-6. develop
+5. in another window cd into framework run $grunt watch
+6. develop/ play
 
 
 ###Folder Structure
